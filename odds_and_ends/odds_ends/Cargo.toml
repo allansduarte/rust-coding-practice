@@ -1,0 +1,8 @@
+[package]
+name = "odds_ends"
+version = "0.0.1"
+authors = ["Allan Soares Duarte"]
+
+[dependencies]
+rand = "0.3.12"
+phrases = { path = "../phrases" }
